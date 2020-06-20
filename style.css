@@ -1,0 +1,16 @@
+img{
+    display: block;
+}
+
+ul{
+    list-style-type: none;
+}
+.ps4{
+    background-color: blue;
+}
+.nitendo{
+    background-color: red;
+}
+.pc{
+    background-color: green;
+}
